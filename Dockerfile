@@ -1,4 +1,4 @@
-FROM cirrusci/flutter:latest
+FROM cirrusci/flutter:1.20.4
 MAINTAINER Rafał Dziuryk <rafaldziuryk@gmail.com>
 
 RUN sudo apt update -y
