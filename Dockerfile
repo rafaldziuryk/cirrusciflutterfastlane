@@ -1,4 +1,4 @@
-FROM cirrusci/flutter:stable
+FROM cirrusci/flutter:2.8.1
 MAINTAINER Rafał Dziuryk <rafaldziuryk@gmail.com>
 
 RUN sudo apt update -y
